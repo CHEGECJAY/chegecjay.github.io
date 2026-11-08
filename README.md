@@ -1,2 +1,2 @@
-# chegecjay-rgb.github.io
+# chegecjay.github.io
 Personal research and engineering website of Joseph Chege
